@@ -18,8 +18,3 @@ Run the program
 ```
 ./shell
 ```
-## Example Usage
-#### Running shell and tree command
-![Alt text](screenshots/ss-shell-tree.png?raw=true " ")
-
-
