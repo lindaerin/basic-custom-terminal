@@ -9,7 +9,7 @@ Create a custom terminal with the following commands shell, path, list, tree, ex
 - [x] Exit: exit the program
 
 ## Getting Started
-Compile each of the example.c files
+Compile each of the c files
 ```
 gcc -o example exmaple.c
 ```
@@ -19,5 +19,6 @@ Run the program
 ./shell
 ```
 ## Example Usage
-
+![Alt text](screenshots/ss-shell-tree.png?raw=true " ")
+![Alt text](screenshots/ss-path-exit.png?raw=true " ")
 
