@@ -11,7 +11,7 @@ Create a custom terminal with the following commands shell, path, list, tree, ex
 ## Getting Started
 Compile each of the c files
 ```
-gcc -o example exmaple.c
+gcc -o example example.c
 ```
 
 Run the program
